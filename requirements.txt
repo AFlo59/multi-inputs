@@ -1,0 +1,8 @@
+matplotlib
+numpy
+seaborn
+catboost
+tensorflow
+transformers
+pandas
+scikit-learn
